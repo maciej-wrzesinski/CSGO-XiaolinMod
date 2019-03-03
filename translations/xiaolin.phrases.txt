@@ -1,0 +1,116 @@
+"Phrases"
+{
+	"Name_Stamina"
+	{
+		"en"		"Stamina"
+		"pl"		"Wytrzymalosc"
+	}
+	
+	"Name_Chi"
+	{
+		"en"		"Chi Energy"
+		"pl"		"Energia Chi"
+	}
+	
+	"Name_ShenGongWu"
+	{
+		"en"		"Shen Gong Wu"
+		"pl"		"Shen Gong Wu"
+	}
+	
+	"Name_AdminMenu"
+	{
+		"en"		"Admin Menu"
+		"pl"		"Menu Admina"
+	}
+	
+	"Name_AdminMenu_SetSGW"
+	{
+		"en"		"Set Shen Gong Wu"
+		"pl"		"Ustaw Shen Gong Wu"
+	}
+	
+	"Name_AdminMenuSGW"
+	{
+		"en"		"Admin Menu - Shen Gong Wu Config"
+		"pl"		"Menu Admina - Konfiguracja Shen Gong Wu"
+	}
+	
+	"Name_AdminMenuSGW_NewPlace"
+	{
+		"en"		"New spawn"
+		"pl"		"Nowe miejsce"
+	}
+	
+	"Name_AdminMenuSGW_DeleteFromMap"
+	{
+		"en"		"Delete all from map"
+		"pl"		"Usun wszystkie z mapy"
+	}
+	
+	"Name_AdminMenuSGW_DeleteFromFile"
+	{
+		"en"		"Delete all from file"
+		"pl"		"Usun wszystkie z pliku"
+	}
+	
+	"Name_AdminMenuSGW_Spawn"
+	{
+		"en"		"Spawn all"
+		"pl"		"Spawnuj wszystkie"
+	}
+	
+	"Name_AdminMenuSGW_Reload"
+	{
+		"en"		"Reload spawns from file"
+		"pl"		"Przeladuj spawny z pliku"
+	}
+	
+	"Chat_SpawnedSGW"
+	{
+		"en"		"All Shen Gong Wu spawned."
+		"pl"		"Zespawnowano wszystkie Shen Gong Wu."
+	}
+	
+	"Chat_ReloadSGW"
+	{
+		"en"		"Shen Gong Wu spawns reloaded."
+		"pl"		"Odswiezono lokalizacje Shen Gong Wu z pliku."
+	}
+	
+	"Chat_DeleteMapSGW"
+	{
+		"en"		"All Shen Gong Wu on map deleted."
+		"pl"		"Usunieto wszystkie Shen Gong Wu na mapie."
+	}
+	
+	"Chat_MeditateStart"
+	{
+		"en"		"You started meditating."
+		"pl"		"Zaczales medytowac."
+	}
+	
+	"Chat_MeditateStop"
+	{
+		"en"		"You stopped meditating."
+		"pl"		"Przestales medytowac."
+	}
+	
+	"Chat_DeleteFileSGW"
+	{
+		"en"		"All Shen Gong Wu deleted from file."
+		"pl"		"Usunieto wszystkie Shen Gong Wu z pliku."
+	}
+	
+	"Chat_DeleteErrorSGW"
+	{
+		"en"		"Error invalid file"
+		"pl"		"Blad, niepoprawny plik"
+	}
+	
+	"Chat_NewSGW"
+	{
+		"en"		"New Shen Gong Wu location saved."
+		"pl"		"Lokalizacja Shen Gong Wu zostala dopisana do pliku."
+	}
+}

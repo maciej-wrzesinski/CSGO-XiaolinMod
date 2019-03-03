@@ -1,0 +1,285 @@
+"Phrases"
+{
+	"SGW_Get"
+	{
+		"en"		"You gained (E to use)"
+		"pl"		"Zdobyłeś (klawisz E by użyć)"
+	}
+	
+	"SGW_Drop"
+	{
+		"en"		"You dropped"
+		"pl"		"Straciłeś"
+	}
+	
+	"SGW_Use"
+	{
+		"en"		"You activated"
+		"pl"		"Użyłeś"
+	}
+	
+	"SGW_TurnOn"
+	{
+		"en"		"You turned on"
+		"pl"		"Włączyłeś"
+	}
+	
+	"SGW_TurnOff"
+	{
+		"en"		"You turned off"
+		"pl"		"Wyłączyłeś"
+	}
+	
+	"Name_DenshiBunny"
+	{
+		"en"		"Denshi Bunny"
+		"pl"		"Króliczek Denshi"
+	}
+	
+	"Desc_DenshiBunny"
+	{
+		"en"		"You turn into electricity and you deal damage by touching enemies"
+		"pl"		"Zamieniasz się w elektryczność i zadajesz obrażenia dotykając przeciwników"
+	}
+	
+	"Name_EmperorScorpion"
+	{
+		"en"		"Emperor Scorpion"
+		"pl"		"Cesarski Skorpion"
+	}
+	
+	"Desc_EmperorScorpion"
+	{
+		"en"		"Destroys all enemy Shen Gong Wu"
+		"pl"		"Zniszcz wszystkie Shen Gong Wu przeciwników"
+	}
+	
+	"Chat_EmperorScorpionEffect"
+	{
+		"en"		"destroyed all Shen Gong Wu with"
+		"pl"		"zniszczył wszystkie aktywne Shen Gong Wu za pomocą"
+	}
+	
+	"Name_EyeOfDashi"
+	{
+		"en"		"Eye of Dashi"
+		"pl"		"Oko mistrza Dashi"
+	}
+	
+	"Desc_EyeOfDashi"
+	{
+		"en"		"You can shoot electric bolts that deal damage and shock enemies"
+		"pl"		"Możesz strzelać elektrycznymi pociskami które zadają obrażenia i paralizują wrogów"
+	}
+	
+	"Name_FancyFeet"
+	{
+		"en"		"Fancy Feet"
+		"pl"		"Klawe Klapki"
+	}
+	
+	"Desc_FancyFeet"
+	{
+		"en"		"You are extremely fast"
+		"pl"		"Jesteś niesamowicie szybki"
+	}
+	
+	"Name_FistOfTebigong"
+	{
+		"en"		"Fist of Tebigong"
+		"pl"		"Pięść Tebigonga"
+	}
+	
+	"Desc_FistOfTebigong"
+	{
+		"en"		"Your hand attacks confuse enemies and slow them down a little bit"
+		"pl"		"Twoje ataki wręcz oszałamiają i spowalniają przeciwników"
+	}
+	
+	"Name_GoldenTigerClaws"
+	{
+		"en"		"Golden Tiger Claws"
+		"pl"		"Złote Pazury Tygrysa"
+	}
+	
+	"Desc_GoldenTigerClaws"
+	{
+		"en"		"You can teleport to last chosen place"
+		"pl"		"Możesz się teleportować do ostatnio wyznaczonego miejsca"
+	}
+	
+	"Chat_GoldenTigerClawsUsage1"
+	{
+		"en"		"You chose teleportation place!"
+		"pl"		"Wybrales miejsce do teleportacji!"
+	}
+	
+	"Chat_GoldenTigerClawsUsage2"
+	{
+		"en"		"Teleportation!"
+		"pl"		"Teleportacja!"
+	}
+	
+	"Chat_GoldenTigerClawsError"
+	{
+		"en"		"Watch out, you were in a wall!"
+		"pl"		"Byłeś w ścianie! Uważaj, to zabija!"
+	}
+	
+	"Name_LongiKite"
+	{
+		"en"		"Longi Kite"
+		"pl"		"Latawiec Longi"
+	}
+	
+	"Desc_LongiKite"
+	{
+		"en"		"You can fly"
+		"pl"		"Możesz latać"
+	}
+	
+	"Name_LotusTwister"
+	{
+		"en"		"Lotus Twister"
+		"pl"		"Giętki Lotos"
+	}
+	
+	"Desc_LotusTwister"
+	{
+		"en"		"You have a 50% chance to dodge any damage"
+		"pl"		"Masz 50% szans na uniknięcie jakichkolwiek obrażeń"
+	}
+	
+	"Name_MantisFlipCoin"
+	{
+		"en"		"Mantis Flip Coin"
+		"pl"		"Moneta Modliszki"
+	}
+	
+	"Desc_MantisFlipCoin"
+	{
+		"en"		"You can jump higher and further"
+		"pl"		"Możesz skakać wyżej i dalej"
+	}
+	
+	"Name_MikadoArm"
+	{
+		"en"		"Mikado Arm"
+		"pl"		"Bary Mikado"
+	}
+	
+	"Desc_MikadoArm"
+	{
+		"en"		"You deal 25% more damage with hand attacks"
+		"pl"		"Zadajesz 25% więcej obrażeń atakami wręcz"
+	}
+	
+	"Name_ReversingMirror"
+	{
+		"en"		"Reversing Mirror"
+		"pl"		"Odwracające Lustro"
+	}
+	
+	"Desc_ReversingMirror"
+	{
+		"en"		"Hand attacks that you recive reflect 30% of damage"
+		"pl"		"Ataki wręcz które otrzymujesz zadają 30% obrażeń atakującemu"
+	}
+	
+	"Name_MonkeyStaff"
+	{
+		"en"		"Monkey Staff"
+		"pl"		"Małpia Buława"
+	}
+	
+	"Desc_MonkeyStaff"
+	{
+		"en"		"User can dash further and your stamina loss is decreased"
+		"pl"		"Możesz skakać dalej a twoja strata wytrzymałości jest zmniejszona"
+	}
+	
+	"Name_SandsOfTime"
+	{
+		"en"		"Sands of Time"
+		"pl"		"Piaski Czasu"
+	}
+	
+	"Desc_SandsOfTime"
+	{
+		"en"		"You can stop time for 4 seconds"
+		"pl"		"Zatrzymujesz czas na 4 sekundy"
+	}
+	
+	"Name_SerpentTail"
+	{
+		"en"		"Serpents Tail"
+		"pl"		"Ogon węża"
+	}
+	
+	"Desc_SerpentTail"
+	{
+		"en"		"You can turn into a ghost and fly though walls"
+		"pl"		"Możesz zamienić się w ducha i przelatywać przez ściany"
+	}
+	
+	"Name_ShardOfLightning"
+	{
+		"en"		"Shard of Lightning"
+		"pl"		"Łuska Błyskawicy"
+	}
+	
+	"Desc_ShardOfLightning"
+	{
+		"en"		"You cant teleport on the thing you are looking at"
+		"pl"		"Możesz się teleportować na rzecz na którą patrzysz"
+	}
+	
+	"Name_SphereOfYun"
+	{
+		"en"		"Sphere of Yun"
+		"pl"		"Sfera Yun"
+	}
+	
+	"Desc_SphereOfYun"
+	{
+		"en"		"You can shoot magic balls that lock up enemy players"
+		"pl"		"Możesz strzelać magicznymi pociskami które zamykają przeciwników w klatce"
+	}
+	
+	"Name_StarHanabi"
+	{
+		"en"		"Star Hanabi"
+		"pl"		"Gwiazda Hanabi"
+	}
+	
+	"Desc_StarHanabi"
+	{
+		"en"		"You can shoot fireballs that deal damage and burn enemies"
+		"pl"		"Możesz strzelać ognistymi pociskami które podpalają przeciwników"
+	}
+	
+	"Name_TangleWebComb"
+	{
+		"en"		"Tangle Web Comb"
+		"pl"		"Pajęczy Grzebień"
+	}
+	
+	"Desc_TangleWebComb"
+	{
+		"en"		"You can shoot spider web that slow down and stop dashing"
+		"pl"		"Możesz strzelać siecią pająka która spowalnia przeciwników i uniemożliwia im skakanie"
+	}
+	
+	"Name_ThreeTonTunic"
+	{
+		"en"		"Three Ton Tunic"
+		"pl"		"Trzy Tonowa Tunika"
+	}
+	
+	"Desc_ThreeTonTunic"
+	{
+		"en"		"Neutralise 80% of damage recived, become super slow"
+		"pl"		"Neutralizujesz 80% obrażeń jakie otrzymujesz, ale poruszasz się bardzo wolno"
+	}
+	
+}
